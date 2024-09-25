@@ -1,0 +1,2 @@
+# CustomGPT-Med-AI-Powered-Mining-of-Medical-Scientific-Publications
+CustomGPT-Med is a fine-tuned GPT model for extracting insights from medical publications. It enables semantic search, named entity recognition (NER), and automatic summarization of research papers, clinical trials, and patents. Built for pharmaceutical innovation, it accelerates research by turning vast medical data into actionable knowledge.
