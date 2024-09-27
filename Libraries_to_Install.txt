@@ -1,0 +1,62 @@
+
+List of Libraries to Install with Brief Explanation:
+
+1. pandas
+   Usage: For data manipulation and creating dataframes, used in data collection, preprocessing, and saving data.
+   bash:
+   pip install pandas
+
+2. nltk
+   Usage: For text tokenization, stopword removal, and other natural language processing tasks.
+   bash:
+   pip install nltk
+
+3. spacy
+   Usage: For Named Entity Recognition (NER) and other NLP pipeline tasks.
+   bash:
+   pip install spacy
+
+4. huggingface_hub, transformers
+   Usage: For downloading and fine-tuning transformer models, used in both entity extraction and fine-tuning GPT models.
+   bash:
+   pip install transformers huggingface-hub
+
+5. torch
+   Usage: The underlying framework for fine-tuning GPT models and running machine learning tasks with PyTorch.
+   bash:
+   pip install torch
+
+6. tqdm
+   Usage: For progress bars, often used in model training and long-running operations.
+   bash:
+   pip install tqdm
+
+7. wordcloud
+   Usage: For generating word clouds to visualize frequent terms in the dataset.
+   bash:
+   pip install wordcloud
+
+8. matplotlib
+   Usage: For creating visualizations like bar charts and confusion matrices.
+   bash:
+   pip install matplotlib
+
+9. scikit-learn
+   Usage: For machine learning algorithms and evaluation metrics, such as Naive Bayes classifier, accuracy, precision, and recall.
+   bash:
+   pip install scikit-learn
+
+10. biopython
+    Usage: For accessing PubMed and other biological datasets, used in fetching scientific publications.
+    bash:
+    pip install biopython
+
+11. sentence-transformers
+    Usage: For semantic search and question-answering by using Sentence Transformers models.
+    bash:
+    pip install sentence-transformers
+
+12. datasets
+    Usage: For working with datasets from Hugging Face to fine-tune GPT models.
+    bash:
+    pip install datasets
